@@ -63,8 +63,11 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 
 ##### Memristor Software Implementation
 - [Supporting Legacy Libraries on Non-volatile Memory: A User-Transparent Approach](https://ieeexplore.ieee.org/document/9499947)
+    - [ye2021.md](ye2021.md)
 - [Breeze: User-Level Access to Non-Volatile Main Memories for Legacy Software](https://cseweb.ucsd.edu//~amemarip/upload/Breeze-ICCD-2018.pdf)
+    - [memaripour2018.md](memaripour2018.md)
 - [A High-Performance and Scalable NVMe Controller Featuring Hardware Acceleration](https://ieeexplore.ieee.org/document/9453406)
+    - [qiu2021.md](qiu2021.md)
 - [Pragmatic Memory-System Support for Intermittent Computing Using Emerging Nonvolatile Memory](https://ieeexplore.ieee.org/document/9759470)
     - [sliper2022.md](sliper2022.md)
 
