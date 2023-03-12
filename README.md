@@ -73,7 +73,9 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 
 ##### Firmware
 - [Techniques to Improve Write and Retention Reliability of STT-MRAM Memory Subsystem](https://ieeexplore.ieee.org/document/9560712)
+    - [sethuraman2022.md](sethuraman2022.md)
 - [A Low-Latency and High-Endurance MLC STT-MRAM-Based Cache System](https://ieeexplore.ieee.org/document/9761996)
+    - [zhao2023.md](zhao2023.md)
 
 ### Simulations & Models
 #### Mathematical Models
@@ -83,6 +85,7 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 
 #### Hardware Models
 - [An FPGA-based Hardware Emulator for Neuromorphic Chip with RRAM](https://ieeexplore.ieee.org/document/8588383)
+    - [luo2018.md](luo2018.md)
 - [STT-MRAM-Based Multicontext FPGA for Multithreading Computing Environment](https://ieeexplore.ieee.org/document/9462524)
 
 #### Circuit Simulations/SPICE
