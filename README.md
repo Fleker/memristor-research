@@ -16,6 +16,7 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 ### Computing
 #### In-Memory Computing
 - [SIXOR: Single-Cycle In-Memristor XOR](http://ieeexplore.ieee.org/document/9382267)
+    - [taherinejad2021.md](taherinejad2021.md)
 - [Memristive Computational Memory Using Memristor Overwrite Logic](https://ieeexplore.ieee.org/document/9160878)
 - [Experimental Verification of Memristor-Based Material Implication NAND Operation](https://ieeexplore.ieee.org/document/8064732)
 - [Memristor-Based Analog Recursive Computation Circuit for Linear Programming Optimization](https://ieeexplore.ieee.org/document/9094179)
@@ -80,6 +81,7 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 ### Simulations & Models
 #### Mathematical Models
 - [Memristor Modeling Using the Modified Nodal Analysis Approach](https://ieeexplore.ieee.org/document/9383826)
+    - [kahale2021.md](kahale2021.md)
 - [Design of General Flux-Controlled and Charge-Controlled Memristor Emulators Based on Hyperbolic Functions](https://ieeexplore.ieee.org/document/9809981)
     - [sun2023.md](sun2023.md)
 
@@ -87,10 +89,12 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [An FPGA-based Hardware Emulator for Neuromorphic Chip with RRAM](https://ieeexplore.ieee.org/document/8588383)
     - [luo2018.md](luo2018.md)
 - [STT-MRAM-Based Multicontext FPGA for Multithreading Computing Environment](https://ieeexplore.ieee.org/document/9462524)
+    - [kim2021.md](kim2021.md)
 
 #### Circuit Simulations/SPICE
 - [A Compact Modeling Methodology for Experimental Memristive Devices](https://ieeexplore.ieee.org/document/9647028)
 - [A Simulation Framework for Memristor-Based Heterogeneous Computing Architectures](http://ieeexplore.ieee.org/document/9716051)
+    - [liu2022.md](liu2022.md)
 - [GEM: A Generalized Memristor Device Modeling Framework Based on Neural Network for Transient Circuit Simulation](http://ieeexplore.ieee.org/document/9816013)
     - [zhang2023.md](zhang2023.md)
 - [Resistorless Memristor Emulators: Floating and Grounded Using OTA and VDBA for High-Frequency Applications](https://ieeexplore.ieee.org/document/9825737)
@@ -115,6 +119,7 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 ### Architecture
 #### Computer Design & Analysis
 - [Analyzing the Monolithic Integration of a ReRAM-based Main Memory into a CPU's die](https://ieeexplore.ieee.org/document/8851191)
+    - [jagasivamani2019.md](jagasivamani2019.md)
 
 #### Chip Design/VLSI
 - [Near Volatile and Non-Volatile Memory Processing in 3D Systems](https://ieeexplore.ieee.org/document/9556138)
