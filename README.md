@@ -18,7 +18,9 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [SIXOR: Single-Cycle In-Memristor XOR](http://ieeexplore.ieee.org/document/9382267)
     - [taherinejad2021.md](taherinejad2021.md)
 - [Memristive Computational Memory Using Memristor Overwrite Logic](https://ieeexplore.ieee.org/document/9160878)
+    - [ali2020.md](ali2020.md)
 - [Experimental Verification of Memristor-Based Material Implication NAND Operation](https://ieeexplore.ieee.org/document/8064732)
+    - [maestro2019.md](maestro2019.md)
 - [Memristor-Based Analog Recursive Computation Circuit for Linear Programming Optimization](https://ieeexplore.ieee.org/document/9094179)
 - [A Relaxed Quantization Training Method for Hardware Limitations of Resistive Random Access Memory (ReRAM)-Based Computing-in-Memory](https://ieeexplore.ieee.org/document/9085999)
 - [Parallel Computation in the Racetrack Memory](https://ieeexplore.ieee.org/document/9424961)
@@ -98,6 +100,12 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [GEM: A Generalized Memristor Device Modeling Framework Based on Neural Network for Transient Circuit Simulation](http://ieeexplore.ieee.org/document/9816013)
     - [zhang2023.md](zhang2023.md)
 - [Resistorless Memristor Emulators: Floating and Grounded Using OTA and VDBA for High-Frequency Applications](https://ieeexplore.ieee.org/document/9825737)
+- [CMOS-Based Memristor Emulator Circuits for Low-Power Edge-Computing Applications](https://www.mdpi.com/2079-9292/12/7/1654)
+    - [ghosh2023.md](ghosh2023.md)
+
+#### Software Simulations
+- [A Cycle-level Unified DRAM Cache Controller Model for 3DXPoint Memory Systems in gem5](https://arxiv.org/pdf/2303.13026.pdf)
+    - [babaie2023.md](babaie2023.md)
 
 ### Analysis/Review
 #### Hardware/Components
