@@ -22,6 +22,7 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [Experimental Verification of Memristor-Based Material Implication NAND Operation](https://ieeexplore.ieee.org/document/8064732)
     - [maestro2019.md](maestro2019.md)
 - [Memristor-Based Analog Recursive Computation Circuit for Linear Programming Optimization](https://ieeexplore.ieee.org/document/9094179)
+    - [shang2020.md](shang2020.md)
 - [A Relaxed Quantization Training Method for Hardware Limitations of Resistive Random Access Memory (ReRAM)-Based Computing-in-Memory](https://ieeexplore.ieee.org/document/9085999)
 - [Parallel Computation in the Racetrack Memory](https://ieeexplore.ieee.org/document/9424961)
 - [High-Efficiency Data Conversion Interface for Reconfigurable Function-in-Memory Computing](https://ieeexplore.ieee.org/document/9795103)
