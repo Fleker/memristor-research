@@ -137,6 +137,10 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [Test Optimization in Memristor Crossbars Based on Path Selection](https://ieeexplore.ieee.org/document/9759504)
 - [Volatile Threshold Switching Memristor: An emerging enabler in AIoT era](http://www.jos.ac.cn/en/article/id/1ed98013-32a2-4663-8aa4-eeb3422f5718)
 
+#### Power
+- [Design of a nonvolatile-register-embedded RISC-V CPU with software-controlled data-retention and hardware-acceleration functions](https://www.sciencedirect.com/science/article/pii/S2773064623000129)
+
+
 #### Testing
 - [Defect Analysis and Parallel Testing for 3D Hybrid CMOS-Memristor Memory](http://ieeexplore.ieee.org/document/9052438)
 - [CacheTree: Reducing Integrity Verification Overhead of Secure Nonvolatile Memories](http://ieeexplore.ieee.org/document/9164911)
