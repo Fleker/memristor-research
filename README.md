@@ -26,6 +26,14 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [A Relaxed Quantization Training Method for Hardware Limitations of Resistive Random Access Memory (ReRAM)-Based Computing-in-Memory](https://ieeexplore.ieee.org/document/9085999)
 - [Parallel Computation in the Racetrack Memory](https://ieeexplore.ieee.org/document/9424961)
 - [High-Efficiency Data Conversion Interface for Reconfigurable Function-in-Memory Computing](https://ieeexplore.ieee.org/document/9795103)
+- [A Survey of MRAM-Centric Computing: From Near Memory to In Memory](https://ieeexplore.ieee.org/abstract/document/9927218)
+    - [li2022.md](li2022.md)
+- [IMPLY-based High Speed Conditional Carry and Carry Select Adders for In-Memory Computing](https://ieeexplore.ieee.org/document/10148800)
+    - [kaushik2023.md](kaushik2023.md)
+- [A Nonvolatile Compute-in-Memory Macro Using Voltage-Controlled MRAM and In Situ Magnetic-to-Digital Converter](https://ieeexplore.ieee.org/document/10075423)
+    - [jacob2023.md](jacon2023.md)
+- [Compute Caches](https://ieeexplore.ieee.org/document/7920849)
+    - [aga2017.md](aga2017.md)
 
 #### Machine Learning/Neural Networks
 - [A Nonvel Memristive Chaotic Neuron Circuit and its Application in Chaotic Neural Networks for Associative Memory](http://ieeexplore.ieee.org/document/9119116)
