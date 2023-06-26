@@ -36,6 +36,8 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [aga2017.md](aga2017.md)
 - [Memristor based In-Memory Computing for Edge AI Applications](https://ieeexplore.ieee.org/document/10153553)
     - [joshi2_2023.md](joshi2_2023.md)
+- [Memristor-based IMPLY logic design procedure](https://ieeexplore.ieee.org/document/6081389)
+    - [kvatinsky2011.md](kvatinsky2011.md)
 
 #### Machine Learning/Neural Networks
 - [A Nonvel Memristive Chaotic Neuron Circuit and its Application in Chaotic Neural Networks for Associative Memory](http://ieeexplore.ieee.org/document/9119116)
