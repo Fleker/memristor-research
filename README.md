@@ -38,6 +38,10 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [joshi2_2023.md](joshi2_2023.md)
 - [Memristor-based IMPLY logic design procedure](https://ieeexplore.ieee.org/document/6081389)
     - [kvatinsky2011.md](kvatinsky2011.md)
+- [Applications and limitations of memristive implication logic](https://ieeexplore.ieee.org/document/6331438)
+    - [lehtonen2012.md](lehtonen2012.md)
+- [Hybrid Signed Convolution Module With Unsigned Divide-and-Conquer Multiplier for Energy-Efficient STT-MRAM-Based AI Accelerator](https://ieeexplore.ieee.org/document/10050403)
+    - [li2023.md](li2023.md)
 
 #### Machine Learning/Neural Networks
 - [A Nonvel Memristive Chaotic Neuron Circuit and its Application in Chaotic Neural Networks for Associative Memory](http://ieeexplore.ieee.org/document/9119116)
@@ -56,6 +60,8 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [A Memristive Synapse Control Method to Generate Diversified Multistructure Chaotic Attractors](https://ieeexplore.ieee.org/document/9807319)
 - [A comprehensive review on ReRAM-based accelerators for deep learning](https://ieeexplore.ieee.org/document/10153519)
     - [joshi2023.md](joshi2023.md)
+- [Design and simulation of memristor-based neural networks](https://arxiv.org/abs/2306.11678)
+    - [lazaro2023.md](lazaro2023.md)
 
 #### Stochastic Computing
 - [Revisiting Stochastic Computing in the Era of Nanoscale Nonvolatile Technologies](https://ieeexplore.ieee.org/document/9096622)
@@ -119,6 +125,8 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [ghosh2023.md](ghosh2023.md)
 - [Design of CMOS Memristor Emulator and Logic Gates For Neuromorphic Circuits](https://ieeexplore.ieee.org/abstract/document/10153559)
     - [swaroop2023.md](swaroop2023.md)
+- [Full CMOS Circuit for Brain-Inspired Associative Memory With On-Chip Trainable Memristive STDP Synapse](https://ieeexplore.ieee.org/document/10113135)
+    - [vohra2023.md](vohra2023.md)
 
 #### Software Simulations
 - [A Cycle-level Unified DRAM Cache Controller Model for 3DXPoint Memory Systems in gem5](https://arxiv.org/pdf/2303.13026.pdf)
