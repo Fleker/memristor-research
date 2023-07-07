@@ -42,6 +42,8 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [lehtonen2012.md](lehtonen2012.md)
 - [Hybrid Signed Convolution Module With Unsigned Divide-and-Conquer Multiplier for Energy-Efficient STT-MRAM-Based AI Accelerator](https://ieeexplore.ieee.org/document/10050403)
     - [li2023.md](li2023.md)
+- [End-to-End Benchmarking of Chiplet-Based In-Memory Computing](https://www.intechopen.com/online-first/87463)
+    - [krishnan2023.md](krishnan2023.md)
 
 #### Machine Learning/Neural Networks
 - [A Nonvel Memristive Chaotic Neuron Circuit and its Application in Chaotic Neural Networks for Associative Memory](http://ieeexplore.ieee.org/document/9119116)
