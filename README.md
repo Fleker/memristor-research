@@ -35,7 +35,7 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [Compute Caches](https://ieeexplore.ieee.org/document/7920849)
     - [aga2017.md](aga2017.md)
 - [Memristor based In-Memory Computing for Edge AI Applications](https://ieeexplore.ieee.org/document/10153553)
-    - [joshi2_2023.md](joshi2_2023.md)
+    - [joshi2023_2.md](joshi2023_2.md)
 - [Memristor-based IMPLY logic design procedure](https://ieeexplore.ieee.org/document/6081389)
     - [kvatinsky2011.md](kvatinsky2011.md)
 - [Applications and limitations of memristive implication logic](https://ieeexplore.ieee.org/document/6331438)
@@ -129,6 +129,8 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [swaroop2023.md](swaroop2023.md)
 - [Full CMOS Circuit for Brain-Inspired Associative Memory With On-Chip Trainable Memristive STDP Synapse](https://ieeexplore.ieee.org/document/10113135)
     - [vohra2023.md](vohra2023.md)
+- [A Nonvolatile Ternary-content-addressable-memory Comprising Resistive-gate Field-effect Transistors](https://ieeexplore.ieee.org/document/10168947)
+    - [hsieh2023.md](hsieh2023.md)
 
 #### Software Simulations
 - [A Cycle-level Unified DRAM Cache Controller Model for 3DXPoint Memory Systems in gem5](https://arxiv.org/pdf/2303.13026.pdf)
@@ -166,7 +168,6 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 #### Power
 - [Design of a nonvolatile-register-embedded RISC-V CPU with software-controlled data-retention and hardware-acceleration functions](https://www.sciencedirect.com/science/article/pii/S2773064623000129)
 
-
 #### Testing
 - [Defect Analysis and Parallel Testing for 3D Hybrid CMOS-Memristor Memory](http://ieeexplore.ieee.org/document/9052438)
 - [CacheTree: Reducing Integrity Verification Overhead of Secure Nonvolatile Memories](http://ieeexplore.ieee.org/document/9164911)
@@ -190,7 +191,7 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [The Desired Memristor for Circuit Designers](https://ieeexplore.ieee.org/document/6518267)
     - [kvatinsky2013.md](kvatinsky2013.md)
 - [TEAM: ThrEshold Adaptive Memristor Model](https://ieeexplore.ieee.org/document/6353604)
-    - [kvatinsky2_2013.md](kvatinsky2_2013.md)
+    - [kvatinsky2013_2.md](kvatinsky2013_2.md)
 - [Supporting the Momentum Training Algorithm Using a Memristor-Based Synapse](https://ieeexplore.ieee.org/document/8600725)
     - [greenberg_toledo2019.md](greenberg_toledo2019.md)
 - [Superconductive Logic Using 2ϕ—Josephson Junctions With Half Flux Quantum Pulses](https://ieeexplore.ieee.org/document/9743564)
@@ -209,3 +210,5 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [ben_hur2017.md](ben_hur2017.md)
 - [Novel Applications Enabled by Memristors](https://ieeexplore.ieee.org/document/9739057)
     - [kvatinsky2022.md](kvatinsky2022.md)
+- [MRL – Memristor Ratioed Logic](https://ieeexplore.ieee.org/document/6331426)
+    - [kvatinsky2012.md](kvatinsky2012.md)
