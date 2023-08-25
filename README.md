@@ -45,6 +45,14 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
 - [End-to-End Benchmarking of Chiplet-Based In-Memory Computing](https://www.intechopen.com/online-first/87463)
     - [krishnan2023.md](krishnan2023.md)
 
+#### Random Numbers/Chaos
+- [A Novel Memristive Chaotic System with Hidden Attractors and a Line of Equilibria](https://scientiairanica.sharif.edu/article_23314.html)
+    - [wang2023.md](wang2023.md)
+- [A Memristive Synapse Control Method to Generate Diversified Multistructure Chaotic Attractors](https://ieeexplore.ieee.org/document/9807319)
+    - [lin2022.md](lin2022.md)
+- [A robust hybrid method for image encryption based on Hopfield neural network](https://dl.acm.org/doi/abs/10.1016/j.compeleceng.2011.11.019)
+    - [bigdeli2012.md](bigdeli2012.md)
+
 #### Machine Learning/Neural Networks
 - [A Nonvel Memristive Chaotic Neuron Circuit and its Application in Chaotic Neural Networks for Associative Memory](http://ieeexplore.ieee.org/document/9119116)
 - [Nonvolatile Spintronic Memory Cells for Neural Networks](https://ieeexplore.ieee.org/document/8786867)
