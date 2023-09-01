@@ -52,6 +52,8 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [lin2022.md](lin2022.md)
 - [A robust hybrid method for image encryption based on Hopfield neural network](https://dl.acm.org/doi/abs/10.1016/j.compeleceng.2011.11.019)
     - [bigdeli2012.md](bigdeli2012.md)
+- [A color image encryption algorithm based on Hopfield chaotic neural network](https://www.sciencedirect.com/science/article/pii/S0143816618309497?viewFullText=true)
+    - [wang2019.md](wang2019.md)
 
 #### Machine Learning/Neural Networks
 - [A Nonvel Memristive Chaotic Neuron Circuit and its Application in Chaotic Neural Networks for Associative Memory](http://ieeexplore.ieee.org/document/9119116)
