@@ -54,6 +54,10 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [bigdeli2012.md](bigdeli2012.md)
 - [A color image encryption algorithm based on Hopfield chaotic neural network](https://www.sciencedirect.com/science/article/pii/S0143816618309497?viewFullText=true)
     - [wang2019.md](wang2019.md)
+- [A novel pseudo-random number assisted fast image encryption algorithm](https://link.springer.com/article/10.1007/s11042-023-17209-5)
+    - [chen2023.md](chen2023.md)
+- [A physical memristor-based chaotic system and its application in colour image encryption scheme](https://iopscience.iop.org/article/10.1088/1402-4896/ad033f)
+    - [das2023.md](das2023.md)
 
 #### Machine Learning/Neural Networks
 - [A Nonvel Memristive Chaotic Neuron Circuit and its Application in Chaotic Neural Networks for Associative Memory](http://ieeexplore.ieee.org/document/9119116)
@@ -74,6 +78,8 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [joshi2023.md](joshi2023.md)
 - [Design and simulation of memristor-based neural networks](https://arxiv.org/abs/2306.11678)
     - [lazaro2023.md](lazaro2023.md)
+- [Concepts and Paradigms for Neuromorphic Programming](https://arxiv.org/abs/2310.18260v1)
+    - [abreu2023.md](abreu2023.md)
 
 #### Stochastic Computing
 - [Revisiting Stochastic Computing in the Era of Nanoscale Nonvolatile Technologies](https://ieeexplore.ieee.org/document/9096622)
