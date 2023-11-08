@@ -58,6 +58,12 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [chen2023.md](chen2023.md)
 - [A physical memristor-based chaotic system and its application in colour image encryption scheme](https://iopscience.iop.org/article/10.1088/1402-4896/ad033f)
     - [das2023.md](das2023.md)
+- [A 3.3-Mbit/s true random number generator based on resistive random access memory](https://link.springer.com/article/10.1007/s11432-022-3640-0)
+    - [song2023.md](song2023.md)
+- [WALLAX: A memristor-based Gaussian random number generator](https://www.sciencedirect.com/science/article/abs/pii/S0925231223010561?via%3Dihub)
+    - [dong2023.md](dong2023.md)
+- [True Random Number Generator Based on RRAM-Bias Current Starved Ring Oscillator](https://ieeexplore.ieee.org/document/10268070)
+    - [arumi2023.md](arumi2023.md)
 
 #### Machine Learning/Neural Networks
 - [A Nonvel Memristive Chaotic Neuron Circuit and its Application in Chaotic Neural Networks for Associative Memory](http://ieeexplore.ieee.org/document/9119116)
