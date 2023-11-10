@@ -86,6 +86,8 @@ Paper reviews. Actual papers [are in Google Drive](https://drive.google.com/driv
     - [lazaro2023.md](lazaro2023.md)
 - [Concepts and Paradigms for Neuromorphic Programming](https://arxiv.org/abs/2310.18260v1)
     - [abreu2023.md](abreu2023.md)
+- [Bring memristive in-memory computing into general-purpose machine learning: A perspective](https://pubs.aip.org/aip/aml/article/1/4/040901/2916099/Bring-memristive-in-memory-computing-into-general)
+    - [zhou2023.md](zhou2023.md)
 
 #### Stochastic Computing
 - [Revisiting Stochastic Computing in the Era of Nanoscale Nonvolatile Technologies](https://ieeexplore.ieee.org/document/9096622)

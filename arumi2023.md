@@ -3,7 +3,26 @@
 ## Notes
 - Current-starved ring oscillator (CSRO)
 - Exploits inherent cycle-to-cycle variability of RRAM as a source of randomness
-- NEED TO FINISH
+- Ring Oscillator
+    - Odd-number of regular inverters
+    - Alternate b/w HIGH and LOW
+    - Output of one becomes the input for the next
+    - Circuit delays create a particular oscillation frequency
+- Current starved
+    - Add a transistor
+    - Control drain current
+    - These delays can control the oscillation
+    - They can also adjust for temperature controls
+- "The unpredictable oscillation frequency of the CSRO depends on the particular (high) resistance value of the RRAM."
+- "The RRAM devices considered throughout this work are TiN/Ti/HfO2/W structures. The oxide thickness is 10 nm, and the area is 15 × 15 μm2.
+- Could thereotically be good for speed improvements
+- Actually a good comparison table of RRAM TRNGs
+
+## Thesis Notes
+- Temperature manipulation may be one method to break the rng
+    - Another is supply voltage
+- Have a discussion on speed with this and related [song2023.md](song2023.md).
+- Consult Table 3
 
 ## References
 
